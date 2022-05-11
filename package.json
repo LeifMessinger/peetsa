@@ -1,0 +1,20 @@
+{
+  "name": "orderapizza",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Orders a single pizza",
+  "main": "orderAPizza.js",
+  "scripts": {
+    "autobuy": "node autobuy.js",
+    "menu": "node printMenu.js",
+	"item": "node printItem.js"
+  },
+  "keywords": [
+    "pizza"
+  ],
+  "author": "Leif Messinger",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "dominos": "^3.3.0"
+  }
+}

@@ -1,0 +1,2 @@
+Leif Messinger made the autobuy system, modeled after Counter Strike: Global Offensive's autobuy functionality.
+I hope that autobuy configs could span into more things as they are really useful and neat.
